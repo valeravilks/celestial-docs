@@ -1,9 +1,9 @@
 # Introduction
 
-New
+Celestial is a starter template for Wordpress. It is based on the [Sage 10](https://roots.io/sage/) starter theme and additional packages for Sage such as:
 
-* [Get Started](get-started.md)&#x20;
+* Poet
+* ACF Composer
+* Ignition
 
-{% content-ref url="get-started.md" %}
-[get-started.md](get-started.md)
-{% endcontent-ref %}
+Celestial is more of a methodology for working with Sage 10 and its packages. To get all the benefits from Celestial, strictly adhere to all the rules in the documentation to get the most structured project possible.
