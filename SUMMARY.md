@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [File Structure](file-structure.md)
 * [System requirements](system-requirements.md)
 * [Get started](get-started.md)
 * [Concept](concept/README.md)
@@ -14,3 +15,4 @@
 * [Guides](guides/README.md)
   * [Create Atoms](guides/create-atoms.md)
   * [Create Molecule](guides/create-molecule.md)
+* [Create Component](create-component.md)
