@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [File Structure](file-structure.md)
 * [System requirements](system-requirements.md)
 * [Get started](get-started.md)
 * [Concept](concept/README.md)
-  * [Atomic Design](concept/atomic-design.md)
   * [Style](concept/style.md)
+  * [Atomic Design](concept/atomic-design.md)
+  * [File Structure](concept/file-structure.md)
 * [Configuration](configuration/README.md)
   * [Custom Post Type](configuration/custom-post-type.md)
   * [Custom Taxonomy](configuration/custom-taxonomy.md)
