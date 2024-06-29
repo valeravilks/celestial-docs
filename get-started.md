@@ -14,10 +14,6 @@ npm run build
 composer install
 ```
 
-```
-lando start
-```
-
 Start dev&#x20;
 
 ```
