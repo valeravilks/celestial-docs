@@ -16,3 +16,4 @@
   * [Create Atoms](guides/create-atoms.md)
   * [Create Molecule](guides/create-molecule.md)
 * [Create Component](create-component.md)
+* [Work with styling](work-with-styling.md)
